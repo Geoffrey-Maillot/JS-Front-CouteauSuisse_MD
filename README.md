@@ -23,6 +23,7 @@
   -`element.getAttribute('nom')` 
 - Insérer des élements
   - `parent.appendChild(enfant);`
+  - `parent.prepend(enfant);`
   - `voisin.before(nouveauVoisin);`
   - `voisin.after(nouveauVoisin);`
 - Réagir à un événement

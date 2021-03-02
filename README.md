@@ -26,6 +26,8 @@
   - `parent.prepend(enfant);`
   - `voisin.before(nouveauVoisin);`
   - `voisin.after(nouveauVoisin);`
+- Retirer des élément
+  - ``A remplir: removeChild, remove`` 
 - Réagir à un événement
   - `element.addEventListener('click', funtion() {});`
   - `element.addEventListener('submit', funtion() {});`
